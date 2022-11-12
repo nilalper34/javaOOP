@@ -1,2 +1,2 @@
-# java2022WinterTr
-Mehmet Bulutluoz
+# javaCalismalari
+#Yasemin Alper
